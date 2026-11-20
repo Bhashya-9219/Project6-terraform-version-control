@@ -19,4 +19,11 @@ Track Terraform infrastructure updates using Git and GitHub.
 - Initialize and validate Terraform.
 - Track changes using Git.
 - Push code to GitHub.
-- Raise a Pull Request.
+- Raise a Pull Request
+
+## Version Control Workflow
+
+- Created and managed Terraform files using Git.
+- Stored the project in a GitHub repository.
+- Used feature branches to manage updates.
+- Followed the Pull Request workflow.
